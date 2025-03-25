@@ -1,5 +1,8 @@
 _repo: Koitereen-rannalla-b-Yksinaytoksinen-laulunaytelma_75468
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Soini, Lauri
@@ -16,6 +19,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Lauri_Soini
     - https://en.wikipedia.org/wiki/Lauri_Soininen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75468#Koitereen-rannalla-b-Yksinaytoksinen-laulunaytelma
 gutenberg_issued: '2025-02-25'
 gutenberg_type: Text
 identifiers:
